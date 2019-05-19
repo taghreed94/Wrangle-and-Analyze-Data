@@ -21,4 +21,4 @@ Tasks in this project are as follows:
 - Storing, analyzing, and visualizing wrangled data
 - Reporting
     1) data wrangling efforts
-    2) your data analyses and visualizations
+    2) data analyses and visualizations
