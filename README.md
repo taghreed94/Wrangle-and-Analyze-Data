@@ -12,3 +12,13 @@ The following packages (libraries) need to be installed. You can install these p
 - tweepy
 - json
 
+### Project Details
+Tasks in this project are as follows:
+- Data wrangling, which consists of:
+    - Gathering data (downloadable file in the Resources tab in the left most panel of your classroom and linked in step 1 below).
+    - Assessing data
+    - Cleaning data
+- Storing, analyzing, and visualizing your wrangled data
+- Reporting
+    1) data wrangling efforts
+    2) your data analyses and visualizations
